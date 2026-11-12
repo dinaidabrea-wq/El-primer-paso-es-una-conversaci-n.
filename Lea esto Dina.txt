@@ -1,0 +1,20 @@
+Lic. Wellington Perdomo (Abogado)
+
+ARCHIVOS
+- index.html: estructura y contenido.
+- style.css: diseño adaptable, colores y animaciones.
+- script.js: menú móvil, formulario y WhatsApp.
+- logo.png: logotipo suministrado.
+
+ANTES DE PUBLICAR LEA ESTO DINA
+1. Abre script.js y cambia WHATSAPP_NUMBER por el número oficial completo, con código de país, solo dígitos. Ejemplo de formato: 18095551234.
+2. En index.html sustituye “Agregar correo oficial” por el correo real.
+3. Verifica con el abogado todos los servicios, credenciales, exequátur, colegiatura, procesos y métodos de pago antes de publicar.
+4. Añade enlaces reales de redes sociales y, si corresponde, información de pagos.
+5. Prueba el formulario y el botón de WhatsApp desde un teléfono.
+
+NOTAS
+- El formulario prepara un mensaje en WhatsApp; no almacena datos ni envía correos por sí solo.
+- Las fotografías de fondo se cargan desde Unsplash y requieren conexión a internet.
+- Las fuentes se cargan desde Google Fonts.
+- La web es una presentación informativa. No constituye asesoría legal ni crea relación abogado-cliente.
